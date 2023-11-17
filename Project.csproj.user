@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AespaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AespaForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ETAAForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HEROForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HEROForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IFeelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IFeelForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IVEForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IVEForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LESSERAFIMForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LESSERAFIMForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="New10Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewJeansForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewJeansForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ParkForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ParkForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SevenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SevenForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
